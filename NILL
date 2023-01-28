@@ -1,0 +1,6 @@
+import os
+print('\033[1;34m\n Congratulations! Your Device Support This Tools\033[1;37m')
+os.system('clear')
+print('\033[1;35m\n BYPASSED BY MR NILL\033[1;37m')
+os.system('xdg-open https://facebook.com/NKD403/')
+import RMXXD
